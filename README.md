@@ -1,4 +1,4 @@
-# Legendary-Enigma
+# Resources
 Resourses
 Binary search
 <ul>
