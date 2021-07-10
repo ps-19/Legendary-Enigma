@@ -68,7 +68,7 @@ Categories
     <li>Constructive algorithms</li>
     <li>Expression parsing</li>
     <li>Meet in the middle</li>
-   <li>FFT</li>
+    <li>FFT</li>
     <li>Chinese remainder theorem</li>
     <li>Gaussian elimination</li>
     <li>Difference array, binary lifting</li>
@@ -76,5 +76,12 @@ Categories
 
 CSES:
 <ul>
-<li>Solutions for CSES DP problems: https://codeforces.com/blog/entry/70018</li></li>
+    <li>Solutions for CSES DP problems: https://codeforces.com/blog/entry/70018</li>
+</ul>
+
+Codeforces Blogs:
+<ul>
+    
+    <li>https://codeforces.com/blog/entry/92695</li>
+    
 </ul>
