@@ -81,7 +81,5 @@ CSES:
 
 Codeforces Blogs:
 <ul>
-    
-    <li>https://codeforces.com/blog/entry/92695</li>
-    
+    <li> https://codeforces.com/blog/entry/92695 </li>
 </ul>
